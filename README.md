@@ -5,9 +5,8 @@
 </a>
 <a href="https://t.me/roty3">
   <img align="left" alt="My telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a> 
-  
-  
+</a>  
+
 <br>
 My name is Dmitry. I'm currently learning data analytics tools. 
 <br />
