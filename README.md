@@ -5,12 +5,12 @@
 </a>
 <a href="https://t.me/roty3">
   <img align="left" alt="My telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<p class="margin-bottom-20"></p>
-
-<p>
+</a> 
+  
+  
+<br>
 My name is Dmitry. I'm currently learning data analytics tools. 
-</p>
+<br />
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
